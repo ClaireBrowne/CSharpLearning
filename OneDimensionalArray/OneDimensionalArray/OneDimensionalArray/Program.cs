@@ -6,7 +6,7 @@ namespace OneDimensionalArray
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!fdfdfdfdf");
+      Console.WriteLine("Hello World!");
     }
   }
 }
