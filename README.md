@@ -1,2 +1,2 @@
 # CSharpLearning
-CSharpLearning
+This is project for learning CSharp
